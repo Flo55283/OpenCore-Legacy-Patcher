@@ -81,6 +81,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | SMBIOS | Tested | Tester | Model | Version | Comment |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Macmini3,1 | <span style="color:#30BCD5"> YES </span> | ASentientHedgehog | Stock | N/A | N/A |
+| Macmini3,1 | <span style="color:#30BCD5"> YES </span> | Flo55283 | Stock | 0.6.8 | My CD drive was broken before, but everything else works, including the connection via USB 1.1 |
 | Macmini4,1 | <span style="color:#30BCD5"> YES </span> | Towster15#6369 | ^^ | 0.4.4 | Does not have internal SATA cable, booted and installed to SSD over USB 2.0 instead |
 | ^^ | ^^ | MykolaG | ^^ | 0.4.5 | SD card reader possibly broken. |
 | Macmini5,1 | <span style="color:#30BCD5"> YES </span> | MykolaG | ^^ | 0.4.5 | N/A |
